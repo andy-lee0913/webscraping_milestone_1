@@ -1,0 +1,12 @@
+name: cpi_prediction
+title: cpi_prediction
+username:
+account: adnylee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2476189
+bundleId: 3290381
+url: https://adnylee.shinyapps.io/cpi_prediction/
+when: 1592541028.99641
+asMultiple: FALSE
+asStatic: FALSE
